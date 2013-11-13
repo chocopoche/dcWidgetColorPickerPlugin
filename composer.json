@@ -4,11 +4,6 @@
     "require": {
         "composer/installers": "*"
     },
-    "source": {
-        "url": "https://github.com/chocopoche/dcWidgetColorPickerPlugin.git",
-        "type": "git",
-        "reference": "master"
-    },
     "extra": {
         "branch-alias": {
             "1.0.1": "master"
