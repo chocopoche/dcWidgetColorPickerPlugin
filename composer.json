@@ -1,0 +1,17 @@
+{
+    "name": "chocopoche/dc-widget-color-picker-plugin",
+    "type": "symfony1-plugin",
+    "require": {
+        "composer/installers": "*"
+    },
+    "source": {
+        "url": "https://github.com/chocopoche/dcWidgetColorPickerPlugin.git",
+        "type": "git",
+        "reference": "master"
+    },
+    "extra": {
+        "branch-alias": {
+            "1.0.1": "master"
+        }
+    }
+}
